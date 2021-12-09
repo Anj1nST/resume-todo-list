@@ -1,0 +1,7 @@
+.Card-todo__completed {
+    text-decoration: line-through;
+}
+
+.Card-todo__uncompleted {
+    text-decoration: none;
+}
